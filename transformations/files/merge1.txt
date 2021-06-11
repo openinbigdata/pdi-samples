@@ -1,9 +1,9 @@
 pid;value
-1;A
 2;B
+1;A
+8;H
 3;C
 4;D
-5;E
 6;F
-8;H
+5;E
 10;J
